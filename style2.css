@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    background-color: rgb(232,232,232);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: rgb(232,232,232);
+    font-size: 30px;
+  }
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 60px;
+    background: #1abc9c;
+  }
+
+
+.content {
+    padding:20px;
+    text-align: center;
+}
+
+
+.BTN {
+    background-color: white;
+    border: 2px solid black;
+    color: green;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 30px;
+    cursor: pointer;
+}
